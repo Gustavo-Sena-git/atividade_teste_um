@@ -47,6 +47,8 @@
     <?php
     
     include("../public/component/table.php");
+
+    /*Esse código verifica se o usuário está logado, recebe os dados do formulário e cadastra um novo usuário no banco de dados.*/
     ?>
 
 

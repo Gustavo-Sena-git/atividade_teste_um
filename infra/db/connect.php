@@ -8,6 +8,7 @@
     
     $conn = new mysqli($host,$user,$pass,$db);
 
+    //Esse código inicia a sessão do usuário e faz a conexão da aplicação com o banco de dados MySQL.
     // if($conn->connect_error){
     //     die("Erro na conexão");
     // }else{

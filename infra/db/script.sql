@@ -9,3 +9,5 @@ CREATE TABLE usuario (
 );
 
 INSERT INTO usuario (usuario, senha) VALUE ('admin','123');
+
+/*Esse código cria o banco de dados da aplicação, cria uma tabela de usuários e adiciona um usuário inicial no sistema.*/

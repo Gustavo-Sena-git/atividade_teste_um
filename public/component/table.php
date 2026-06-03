@@ -27,6 +27,8 @@
         </tr>";
     }
     
+
+    /*Esse código busca os usuários cadastrados no banco de dados e mostra as informações em uma tabela na tela.*/
     ?>
 
 </table>

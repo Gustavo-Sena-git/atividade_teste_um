@@ -48,6 +48,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
             if(isset($erro)){
                 echo $erro;
             }
+            /*Esse código faz o login do usuário ele verifica os dados digitados no banco de dados e, caso estejam corretos, cria uma sessão e redireciona para a página inicial.*/
         ?>
         <button type="submit">Entrar</button>
     </form>
